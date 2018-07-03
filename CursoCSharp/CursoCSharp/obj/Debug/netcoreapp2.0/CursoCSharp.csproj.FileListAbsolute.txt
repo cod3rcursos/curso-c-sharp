@@ -1,0 +1,14 @@
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.deps.json
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.json
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CopyComplete
